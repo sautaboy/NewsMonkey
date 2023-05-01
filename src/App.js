@@ -36,7 +36,6 @@ const App = () => {
           <Route exact path='/business' element={
             <Mainnews key={"business"} pageSize={pageSize} country={"us"} apiKey={apiKey} category="business" />
           } />
-          hi
         </Routes>
       </BrowserRouter>
     </div>
