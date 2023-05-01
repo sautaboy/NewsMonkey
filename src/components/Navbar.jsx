@@ -5,6 +5,7 @@ const Navbar = () => {
 
     return (
         <div>
+            <h2>Hi Mate what is up</h2>
             <nav className="navbar fixed-top navbar-expand-lg  bg-body-tertiary">
                 <div className="container-fluid">
                     <NavLink className="navbar-brand" to="/general">News Monkey</NavLink>
